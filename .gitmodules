@@ -1,0 +1,6 @@
+[submodule "i-notebook-nestjs-backend"]
+	path = i-notebook-nestjs-backend
+	url = https://github.com/divyamishra22/i-notebook-nestjs-backend.git
+[submodule "Notes"]
+	path = Notes
+	url = https://github.com/divyamishra22/Notes.git
